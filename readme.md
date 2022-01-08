@@ -1,2 +1,2 @@
-code structure:\n
+code structure:
 search_frontend.py - all engine code is inside.
